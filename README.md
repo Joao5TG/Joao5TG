@@ -1,0 +1,4 @@
+- 🤗 Oi eu sou O João é um Prazer vê lo aqui!
+- 👾 Criei está conta no Github para anotações e códigos.
+- ♠ Estou aprendendo a parte de Front End e Inglês
+- 💞️ Quero colaborar e receber ajudas com códigos.
